@@ -1433,6 +1433,14 @@ img {
   word-break: break-word;
 }
 
+.contact-section .contact-item-inner .phonum {
+  font-size: 16px;
+  color: var(--text-black-600);
+  line-height: 26px;
+  margin: 0;
+  word-break: break-word;
+}
+
 .contact-section .section-title {
   margin-bottom: 0;
 }
