@@ -1439,6 +1439,7 @@ img {
   line-height: 26px;
   margin: 0;
   word-break: break-word;
+  text-decoration: none;
 }
 
 .contact-section .section-title {
