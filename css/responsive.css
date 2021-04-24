@@ -11,13 +11,13 @@
   }
 }
 
-.effect-7 {
+.effect-6 {
   margin-left: -5%;
   top: 15%;
 }
 
-.effect-4 {
-  left: 45%;
+.effect-3 {
+  right: 5%;
   top: 40%;
 }
 
@@ -59,14 +59,11 @@
   }
 
   .effect-3 {
-    margin-left: -60px;
+    right: 5%;
+    top: 40%;
   }
 
   .effect-4 {
-    left: 15%;
-  }
-
-  .effect-5 {
     right: 40%;
   }
 
@@ -147,11 +144,6 @@
     line-height: 30px;
   }
 
-  .effect-3 {
-    right: -20%;
-    top: 35%;
-  }
-
   .contact-section .pro-avatar img {
     max-width: 50%;
   }
@@ -163,12 +155,7 @@
     line-height: 30px;
   }
 
-  .effect-3 {
-    right: -30%;
-    top: 35%;
-  }
-
-  .effect-6 {
+  .effect-5 {
     left: -20%;
     top: 55%;
   }

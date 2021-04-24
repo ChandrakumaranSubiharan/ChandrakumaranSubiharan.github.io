@@ -199,24 +199,14 @@ img {
 }
 
 .effect-3 {
-  height: 180px;
-  width: 180px;
-  border: 25px solid var(--skin-color);
-  border-radius: 50%;
-  right: -5%;
-  top: 300px;
-  animation: topBounce 3s ease-in-out infinite;
-}
-
-.effect-4 {
   border-top: 30px solid transparent;
   border-left: 30px solid #06d79c;
-  left: 40%;
-  top: 20%;
+  right: 5%;
+  top: 40%;
   animation: spin 15s linear infinite;
 }
 
-.effect-4::before {
+.effect-3::before {
   content: "";
   border-top: 30px solid transparent;
   border-left: 30px solid #06d79c;
@@ -226,7 +216,7 @@ img {
   top: -25px;
 }
 
-.effect-5 {
+.effect-4 {
   height: 50px;
   width: 50px;
   right: 50%;
@@ -238,12 +228,12 @@ img {
   animation: spin 10s linear infinite;
 }
 
-.effect-5 div {
+.effect-4 div {
   width: 1px;
   background-color: #4dd0e1;
 }
 
-.effect-6 {
+.effect-5 {
   right: 4%;
   top: 0;
   width: 100px;
@@ -253,14 +243,14 @@ img {
   animation: leftBounce 3s ease-in-out infinite;
 }
 
-.effect-6 div {
+.effect-5 div {
   height: 3px;
   width: 3px;
   background-color: var(--skin-color);
   margin: 0 3px 8px;
 }
 
-.effect-7 {
+.effect-6 {
   width: 30px;
   height: 30px;
   border: 4px solid #ff4949;
