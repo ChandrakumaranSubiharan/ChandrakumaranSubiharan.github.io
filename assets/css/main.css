@@ -2105,7 +2105,7 @@ body.light-skin .header.sticky .navbar.default:before {
 }
 
 .hero-started {
-	padding-top: 280px;
+	padding-top: 200px;
 	position: relative;
 }
 
@@ -2115,14 +2115,14 @@ body.light-skin .header.sticky .navbar.default:before {
 	left: -100%;
 	bottom: -10px;
 	width: 300%;
-	height: 380px;
+	height: 270px;
 	background: #181e27;
 }
 
 .hero-started .slide {
 	position: absolute;
-	bottom: 120px;
-	right: -139px;
+	bottom: 200px;
+	right: -250px;
 	width: 749px;
 	height: 918px;
 }
@@ -2289,7 +2289,7 @@ body.light-skin .header.sticky .navbar.default:before {
 }
 
 .numbers-item {
-	margin-top: 60px;
+	margin-top: 0px;
 	line-height: 1.2;
 }
 
@@ -5599,4 +5599,13 @@ body.light-skin .wc-block-product-search .wc-block-product-search__button {
 
 body.light-skin.single-portfolio .m-titles:before {
 	background: #f7f5f2;
+}
+
+
+.custom-flex {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	
+	
 }
